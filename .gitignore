@@ -40,3 +40,5 @@
 /bin/windows_gcc/*.exe
 /obj/windows_gcc/AI_DeepLearning/*.o
 /obj/windows_gcc/*.o
+*.tlog
+*.log
